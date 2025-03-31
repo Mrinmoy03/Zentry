@@ -1,4 +1,4 @@
-Live website link: https://zentry-clone-react.netlify.app/
+Live website link: [Zentry](https://zentry-clone-react.netlify.app/)
 
 
 
