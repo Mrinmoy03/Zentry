@@ -60,7 +60,7 @@ const Hero = () => {
         });
       }
     },
-    {
+     {
       dependencies: [currentIndex],
       revertOnUpdate: true,
     }
